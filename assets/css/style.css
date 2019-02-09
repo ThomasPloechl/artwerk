@@ -1,0 +1,142 @@
+.btn-primary {
+  color: #212529;
+  background-color: #00ffc2;
+  border-color: #00ffc2;
+}
+
+.btn.btn-primary.btn-xl.text-uppercase.js-scroll-trigger {
+  background-color: #00ffc2;
+}
+
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+  background-color: #00ffc2;
+}
+
+#mainNav .navbar-brand {
+  color: rgb(0,255,194);
+  font-family: Kaushan Script,Helvetica Neue,Helvetica,Arial,cursive;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+  color: rgb(0,255,194);
+}
+
+a:hover {
+  color: rgb(0,255,194);
+  text-decoration: underline;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+  color: #212529;
+  background-color: #00ffc2;
+  border-color: #00ffc2;
+}
+
+.btn btn-primary {
+  color: #fff;
+  background-color: #00ffc2;
+  border-color: #00ffc2;
+}
+
+/*@media (min-width:768px) {
+  */section {
+    padding: 50px;
+  }
+
+form {
+  color: #7d8285;
+}
+
+btn-primary btn-xl text-uppercase js-scroll-triggerr{
+  color: #212529;
+}
+
+.freitext {
+  color: #212529;
+}
+
+.subheading{
+  font-style: italic;
+}
+
+.namehl{
+  font-style: oblique;
+}
+
+.about {
+  padding-top: 0px;
+}
+
+footer{
+  padding-bottom: 25px;
+  padding-top: 10px;
+	
+}
+
+#mainNav .navbar-toggler{
+  color: #353A40;
+}
+
+a.offlink{
+  pointer-events: none;
+  cursor: default;
+}
+
+
+.nav-link{
+  padding: 0;
+ font-family:  Roboto Slab,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+
+
+iframe{
+  max-width: 100%;
+}
+
+a.portfolio{
+  color: #00ffc2;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #353A40;
+  margin: 1em 0;
+  padding: 0;
+}
+
+
+.abouttwo{
+overflow-x: hidden;
+} 
+
+section .bg-light{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.crtext{
+	font-family:  Roboto Slab,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.portfolio2{
+	background-color: #f8f9fa!important;
+}
+
+
+.portfolio2 .intro h3 {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto 60px;
+	font-style: italic;
+	font-weight: 400;
+	text-transform: none;
+	font-family: Droid Serif,Helvetica Neue,Helvetica,Arial,sans-serif;
+	text-align: center;
+}
+
+.text-uppercase{
+	max-width: 100%;
+}

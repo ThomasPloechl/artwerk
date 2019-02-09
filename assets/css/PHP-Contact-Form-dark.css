@@ -1,0 +1,59 @@
+.text-center-kontakt h2  {
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+  font-size: 36px;
+}
+
+#contact p {
+  
+  font-size: 16px;
+  line-height: 23px;
+  color: #7d8285;
+  text-align: center;
+	font-style: italic;
+	font-weight: 400;
+	text-transform: none;
+	font-family: Droid Serif,Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+label.control-label {
+  
+  color: #f3f3f3;
+  font-weight: 700;
+}
+
+.form-control {
+  border-radius: 0px;
+  /*background-color: #f3f3f3;*/
+  
+  height: 50px;
+}
+
+button.btn.btn-success.btn-send {
+  background-color: #00ffc2;
+  border-color: #00ffc2;
+  color: #343a40;
+  width: 100px;
+  margin-bottom: 10px;
+  height: 45px;
+}
+
+div#contact {
+  background-color: #343a40;
+}
+
+#contact .intro {
+  max-width: 500px;
+  margin: 0 auto 40px;
+}
+
+
+form#contact-form {
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+}
+
+#form_message {
+  min-height: 200px;
+}
